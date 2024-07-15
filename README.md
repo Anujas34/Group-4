@@ -13,7 +13,6 @@ A Java console application for managing customer inquiries, complaints, and reso
 ### Prerequisites
 - Java JDK 11 or higher
 - MySQL Server
-- Maven (for dependency management)
 
 ### Setup
 
